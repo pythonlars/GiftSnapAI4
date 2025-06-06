@@ -1,0 +1,24 @@
+This is my GiftSnap Profile:
+Name: lars
+Year of birth: 2010
+Month of birth: 10
+Day of birth: 13
+Hobbies: climbing, reading, coding, buisness, video games
+Location: bern
+Age: 15
+
+My budget is: 10
+
+I need 4 gift ideas with a creativity level of 1/10 for my mom:
+
+Profile for mom:
+------------------------------
+Name: mom
+Year of birth: 1970
+Month of birth: 8
+Day of birth: 29
+Age: 55
+Hobbies: climbing, cooking, traveling, spending time with famely, reading
+Location: bern
+Job: 
+Social Media: 

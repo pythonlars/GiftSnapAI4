@@ -1,0 +1,9 @@
+Name: mom
+Year of birth: 1970
+Month of birth: 8
+Day of birth: 29
+Age: 55
+Hobbies: climbing, cooking, traveling, spending time with famely, reading
+Location: bern
+Job: 
+Social Media: 
